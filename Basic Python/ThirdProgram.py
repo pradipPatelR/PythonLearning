@@ -162,3 +162,5 @@ print("tup.index(value: Any, start: SupportsIndex = 0, stop: SupportsIndex = sys
 
 idx = tup.index(3, idx+1)
 print("next index of tup.index(3) =", idx)
+
+
