@@ -29,6 +29,8 @@ print("str[1] =", str[1])
 
 print("\nstr[0] = 'B' #not allowed\n")
 # str[0] = 'B' #not allowed
+# String is Immutable in Python 
+# You can not change characted direct index, you can replace of charactet to charactet
 
 print("")
 print("------------------------------------------------\n")
