@@ -15,7 +15,7 @@ print("\n\t\t•length of str")
 print("\t\t\tLength of vlSum => ", len(vlSum))
 
 
-print("")
+print('')
 print("------------------------------------------------\n")
 print("Indexing")
 
