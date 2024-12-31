@@ -15,7 +15,7 @@ print("\n\t\t•length of str")
 print("\t\t\tLength of vlSum => ", len(vlSum))
 
 
-print('')
+print("")
 print("------------------------------------------------\n")
 print("Indexing")
 
@@ -88,7 +88,7 @@ print('str.find("am") = ', str.find("am")) #returns 1st index of 1st occurrence
 print('space char count\tstr.count(" ") = ', str.count(" ")) #counts the occurrence of substr/char in string
 
 
-print("")
+print('')
 print("\n------------------------------------------------\n")
 print("Conditional Statements")
 
@@ -102,5 +102,4 @@ else:
     print("newStr", newStr, "is not number.")
 # end if
 
-print("")
-
+print('')
