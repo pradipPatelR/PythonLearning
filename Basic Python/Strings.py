@@ -32,6 +32,10 @@ print("\nstr[0] = 'B' #not allowed\n")
 # String is Immutable in Python 
 # You can not change characted direct index, you can replace of charactet to charactet
 
+print(f"A New Str is print = {str}") # f use string in variable Bracket. 
+
+
+
 print("")
 print("------------------------------------------------\n")
 print("Slicing")
