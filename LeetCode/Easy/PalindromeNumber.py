@@ -44,6 +44,7 @@ class Solution(object):
         
         
 solution = Solution()
+print(solution.isPalindrome(x=123))
 print(solution.isPalindrome(x=1))
 print(solution.isPalindrome(x=121))
 print(solution.isPalindrome(x=-121))
