@@ -44,7 +44,7 @@ class Solution(object):
             if freq > (n/2):
                 return res
         
-        return -1
+        return res
     
 solution = Solution()
 print(solution.majorityElement([3,2,3]))
